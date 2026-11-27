@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NICEHCK Bridge</string>
+    <string name="module_description">把原道 OriGin 的降噪与电量接进 AOSP 原生蓝牙设备页（中间件，需原道 App 常驻连接）</string>
+    <string name="widget_title">原道 OriG in</string>
+    <string name="widget_description">显示电量与降噪模式，可直接切换降噪</string>
+    <string name="widget_unknown">--%</string>
+    <string name="widget_disconnected">未连接（原道 App 未持有连接）</string>
+    <string name="widget_anc">降噪</string>
+    <string name="widget_deep">深度</string>
+    <string name="widget_transparency">通透</string>
+    <string name="widget_off">关闭</string>
+    <string name="widget_refresh">↻</string>
+    <string name="widget_left">左侧</string>
+    <string name="widget_case">充电盒</string>
+    <string name="widget_right">右侧</string>
+</resources>

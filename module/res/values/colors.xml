@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tile_bg">#FF1A73E8</color>
+    <!-- 图标：填充底 = primaryContainer，字形 = onPrimaryContainer -->
+    <color name="ic_launcher_background">#FFEADDFF</color>
+    <color name="ic_launcher_stroke">#FF21005D</color>
+
+    <!-- MD3 baseline（浅色） -->
+    <color name="ui_surface">#FFFEF7FF</color>
+    <color name="ui_surface_container">#FFF3EDF7</color>
+    <color name="ui_surface_container_high">#FFECE6F0</color>
+    <color name="ui_on_surface">#FF1D1B20</color>
+    <color name="ui_on_surface_variant">#FF49454F</color>
+    <color name="ui_outline">#FF79747E</color>
+    <color name="ui_outline_variant">#FFCAC4D0</color>
+    <color name="ui_error">#FFB3261E</color>
+    <color name="ui_primary_fallback">#FF6750A4</color>
+    <color name="ui_primary_container_fallback">#FFEADDFF</color>
+    <color name="ui_on_primary_container_fallback">#FF21005D</color>
+    <color name="ui_secondary_container_fallback">#FFE8DEF8</color>
+    <color name="ui_on_secondary_container_fallback">#FF1D192B</color>
+</resources>
